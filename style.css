@@ -1,0 +1,13 @@
+.propic { border: 10px solid rgb(43, 226, 113); }
+
+.oshi {color: rgb(5, 236, 140); font-size: 90px; margin-top: -20px; }
+
+.hlo {font-size: 40px;}
+
+.imgtitle {display: flex; justify-content: space-around; background-color: antiquewhite; padding: 20px; background-size: cover;}
+
+.p{font-size: 18px; text-align-last:auto;font-family:Arial, Helvetica, sans-serif;}
+
+.btn{background-color: green;margin-right: 10px; color: white;padding: 10px; border: none; font-weight: bolder;}
+
+.title{}
